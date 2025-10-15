@@ -112,6 +112,7 @@ Buat folder baru  `lab4_layout`, di dalamnya buat dua file:
 </html>
 ```
 **Tampilan**
+
 <img src="layout sederhana.png" width="700">
 
 
@@ -166,6 +167,7 @@ background-color: #2b83ea;
 }
 ```
 **Tampilan**
+
 <img src="navigasi layout sederhana.png" width="700">
 
 **Membuat Hero Panel dan Sidebar**
@@ -277,6 +279,7 @@ kemudiann tambahkan css
 }
 ```
 **Tampilan**
+
 <img src="membuat panel dan sidebar.png" width="700">
 
 **Mengatur Footer**
@@ -377,6 +380,7 @@ box img {
 ```
 
 **Tampilan**
+
 <img src="main content.png" width="700">
 
 **Menambahkan Content Artikel**
@@ -437,6 +441,7 @@ kemudian tambahkan css
 ```
 
 **Tampilan**
+
 <img src="content artikel.png" width="700">
 
 
@@ -713,7 +718,8 @@ footer {
 ```
 
 **Tampilan**
-<img src="tampilan dan vscode list.png" width="700">
+
+<img src="about.png" width="700">
 
 **2. contact.html**
 langkah awal membuat file baru contact.html
@@ -858,5 +864,10 @@ form textarea {
 | **Formulir Kontak** | Memakai `<form>` dengan input: Nama, Email, Pesan. Sudah ada atribut `required` untuk validasi dasar. |
 | **Sidebar**         | Berisi alamat, email, telepon, dan link media sosial.                                                 |
 | **Footer**          | Konsisten dengan halaman lain (warna hitam, teks putih).                                              |
+
+**Tampilan**
+
+<img src="contact.png" width="700">
+
 
 
